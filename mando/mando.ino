@@ -2,7 +2,7 @@
 #include <Keypad.h>
 
 
-//radiofrecuencia
+//Radio frecuencia
 #define radioPin 12
 char buffer[2];
 
